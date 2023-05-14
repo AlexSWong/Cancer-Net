@@ -15,7 +15,7 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 - **January 19, 2021**: Major release of **Cancer-Net SCa**, tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images [(Paper)](https://arxiv.org/abs/2011.10702)[(Models)](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
 <br>
 <p align="center">
-	<img src="https://raw.githubusercontent.com/AlexSWong/Cancer-Net/main/cancernet-data.jpg" alt="Cancer-Net" width="100%" height="100%">
+	<img src="https://raw.githubusercontent.com/AlexSWong/Cancer-Net/main/cancernet-data-100.jpg" alt="Cancer-Net" width="100%" height="100%">
 </p>
 
 ### Benchmark Dataset Status:
