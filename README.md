@@ -23,7 +23,7 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
   - Dataset: [Click here](https://www.kaggle.com/datasets/amytai/cancernet-bca)  
   - Paper: [Click here](https://arxiv.org/abs/2304.05899)  
   <br>
-- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="4%" height="4%"> **Cancer-Net BCa-Data: Breast Cancer Grade Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging**: 
+- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="4%" height="4%"> **Cancer-Net BCa-Data: A Multi-Institutional Open-Source Benchmark Dataset for Breast Cancer Clinical Decision Support using Synthetic Correlated Diffusion Imaging Data**: 
   - Dataset: [Click here](https://www.kaggle.com/datasets/amytai/cancernet-bca)  
   - Paper: [Click here](https://arxiv.org/abs/2304.05623)  
   <br>  
