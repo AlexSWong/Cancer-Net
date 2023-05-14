@@ -47,10 +47,10 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 
 Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uwaterloo.ca)
 
-* DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
-  * James Lee 
 * Vision and Image Processing Research Group, University of Waterloo, Canada
   * Amy Tai
   * Hayden Gunraj
   * Elizabeth Jane
+* DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
+  * James Lee 
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
