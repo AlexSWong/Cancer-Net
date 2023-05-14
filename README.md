@@ -50,7 +50,7 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * Vision and Image Processing Research Group, University of Waterloo, Canada
   * Amy Tai
   * Hayden Gunraj
-  * Elizabeth Jane
+  * Elizabeth Janes
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
   * James Lee 
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
