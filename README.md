@@ -13,6 +13,10 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 - **November 26, 2022**: Major release of **Cancer-Net BCa**, a volumetric convolutional neural network to learn volumetric deep radiomic features for predicting the post-treatment response for breast cancer using synthetic correlated diffusion imaging, along with a new benchmark dataset of volumetric synthetic correlated diffusion imaging data from 253 patient cases [(Paper)](https://arxiv.org/abs/2211.05308)[(Models)](https://github.com/catai9/Cancer-Net-BCa)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
 - **January 19, 2021**: Major release of **Cancer-Net SCa**, tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images [(Paper)](https://arxiv.org/abs/2011.10702)[(Models)](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/AlexSWong/Cancer-Net/main/cancernet-data.jpg" alt="Cancer-Net" width="100%" height="100%">
+</p>
+
 ### Benchmark Dataset Status:
 - Synthetic correlated diffusion imaging data: **253** patients for BCa [Click here](https://www.kaggle.com/datasets/amytai/cancernet-bca) 
 
