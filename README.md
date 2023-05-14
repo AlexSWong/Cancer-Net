@@ -16,7 +16,6 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 <p align="center">
 	<img src="https://raw.githubusercontent.com/AlexSWong/Cancer-Net/main/cancernet-data.jpg" alt="Cancer-Net" width="100%" height="100%">
 </p>
-<br>
 
 ### Benchmark Dataset Status:
 - Synthetic correlated diffusion imaging data: **253** patients for BCa [Click here](https://www.kaggle.com/datasets/amytai/cancernet-bca) 
