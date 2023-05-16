@@ -8,6 +8,7 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 
 
 ### Updates
+- **May 17, 2023**: Major release of **Cancer-Net PCa-Data**, an open-source benchmark dataset for prostate cancer clinical decision support using synthetic correlated diffusion imaging data [(Datasets)](https://www.kaggle.com/datasets/hgunraj/cancer-net-pca-data)
 - **April 12, 2023**: Major release of **Cancer-Net BCa-S**, a volumetric convolutional neural network to learn volumetric deep radiomic features for predicting grading for breast cancer using synthetic correlated diffusion imaging [(Paper)](https://arxiv.org/abs/2304.05899)[(Models)](https://github.com/catai9/Cancer-Net-BCa)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
 - **April 12, 2023**: Major release of **Cancer-Net BCa-Data**, a multi-Institutional open-source benchmark dataset for breast cancer clinical decision support using synthetic correlated diffusion imaging data [(Paper)](https://arxiv.org/abs/2304.05623)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
 - **November 26, 2022**: Major release of **Cancer-Net BCa**, a volumetric convolutional neural network to learn volumetric deep radiomic features for predicting the post-treatment response for breast cancer using synthetic correlated diffusion imaging, along with a new benchmark dataset of volumetric synthetic correlated diffusion imaging data from 253 patient cases [(Paper)](https://arxiv.org/abs/2211.05308)[(Models)](https://github.com/catai9/Cancer-Net-BCa)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
@@ -38,6 +39,9 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
   - Dataset: [Click here](https://www.kaggle.com/datasets/amytai/cancernet-bca)  
   - Paper: [Click here](https://arxiv.org/abs/2211.053082)  
   <br>
+- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="4%" height="4%"> **Cancer-Net PCa-Data: An Open-Source Benchmark Dataset for Prostate Cancer Clinical Decision Support using Synthetic Correlated Diffusion Imaging Data**: 
+  - Dataset: [Click here](https://www.kaggle.com/datasets/hgunraj/cancer-net-pca-data)  
+  <br>    
 - <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="4%" height="4%"> **Cancer-Net PCa-CDIs: Synthetic correlated diffusion imaging hyperintensity delineates clinically significant prostate cancer**: 
   - Paper: [Click here](https://www.nature.com/articles/s41598-022-06872-7)  
   <br>  
