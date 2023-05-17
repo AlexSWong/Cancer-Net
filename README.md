@@ -63,3 +63,5 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
   * James Lee 
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
+* Ali Sabri (Niagara Health, McMaster University, Canada)
+* Amer Alaref (Thunder Bay Regional Health Sciences Centre, Northern Ontario School of Medicine, Canada)
