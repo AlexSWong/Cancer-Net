@@ -65,3 +65,4 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * Ashkan Ebadi and Pengcheng Xi (National Research Council Canada)
 * Ali Sabri (Niagara Health, McMaster University, Canada)
 * Amer Alaref (Thunder Bay Regional Health Sciences Centre, Northern Ontario School of Medicine, Canada)
+* Adrian Florea (CIUSSS de l'Ouest-de-l'Île-de-Montréal)
