@@ -8,6 +8,7 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 
 
 ### Updates
+- **September 28, 2023**: Major release of **TRUDLMIA**, a deep learning framework for building trustworthy models for medical image analysis [(Paper)](https://www.mdpi.com/1424-8220/23/19/8122)[(Datasets)](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
 - **May 17, 2023**: Major release of **Cancer-Net PCa-Data**, an open-source benchmark dataset for prostate cancer clinical decision support using correlated diffusion imaging data [(Datasets)](https://www.kaggle.com/datasets/hgunraj/cancer-net-pca-data)
 - **April 12, 2023**: Major release of **Cancer-Net BCa-S**, a volumetric convolutional neural network to learn volumetric deep radiomic features for predicting grading for breast cancer using correlated diffusion imaging [(Paper)](https://arxiv.org/abs/2304.05899)[(Models)](https://github.com/catai9/Cancer-Net-BCa)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
 - **April 12, 2023**: Major release of **Cancer-Net BCa-Data**, a multi-Institutional open-source benchmark dataset for breast cancer clinical decision support using correlated diffusion imaging data [(Paper)](https://arxiv.org/abs/2304.05623)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
@@ -50,6 +51,10 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   - Paper: [Click here](https://arxiv.org/abs/2011.10702)
+  <br>
+- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="4%" height="4%"> **TRUDLMIA: a deep learning framework for building trustworthy models for medical image analysis**: 
+  - Paper: [Click here](https://www.mdpi.com/1424-8220/23/19/8122)
+  - Benchmark dataset: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
   <br>
 
 ## Core Cancer-Net Team
