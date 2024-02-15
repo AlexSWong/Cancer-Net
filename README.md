@@ -8,6 +8,7 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
 
 
 ### Updates
+- **February 14, 2024**: Major release of **Cancer-Net SCa-DC-AC**, a tailored Double-Condensing Attention Condenser deep neural network for detection of skin cancer from dermoscopy images [(Paper)](https://arxiv.org/abs/2311.11656)[(Models)](https://github.com/catai9/Cancer-Net-SCa-DC-AC)
 - **September 28, 2023**: Major release of **TRUDLMIA**, a deep learning framework for building trustworthy models for medical image analysis [(Paper)](https://www.mdpi.com/1424-8220/23/19/8122)[(Datasets)](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
 - **May 17, 2023**: Major release of **Cancer-Net PCa-Data**, an open-source benchmark dataset for prostate cancer clinical decision support using correlated diffusion imaging data [(Datasets)](https://www.kaggle.com/datasets/hgunraj/cancer-net-pca-data)
 - **April 12, 2023**: Major release of **Cancer-Net BCa-S**, a volumetric convolutional neural network to learn volumetric deep radiomic features for predicting grading for breast cancer using correlated diffusion imaging [(Paper)](https://arxiv.org/abs/2304.05899)[(Models)](https://github.com/catai9/Cancer-Net-BCa)[(Datasets)](https://www.kaggle.com/datasets/amytai/cancernet-bca)
@@ -46,7 +47,12 @@ Cancer-Net is a global open source, open access initiative dedicated to accelera
   <br>    
 - <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="Cancer-Net" width="4%" height="4%"> **Cancer-Net PCa-CDIs: Synthetic correlated diffusion imaging hyperintensity delineates clinically significant prostate cancer**: 
   - Paper: [Click here](https://www.nature.com/articles/s41598-022-06872-7)  
-  <br>  
+  <br>
+- <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="COVID-Net" width="4%" height="4%"> **Cancer-Net SCa-DC-AC: tailored Double-Condensing Attention Condenser deep neural networks for detection of skin cancer from dermoscopy images**: 
+	- Repo: [Click here](https://github.com/catai9/Cancer-Net-SCa-DC-AC)
+  - Models: [Click here](https://github.com/catai9/Cancer-Net-SCa-DC-AC)
+  - Paper: [Click here](https://arxiv.org/abs/2311.11656)
+  <br>
 - <img src="https://github.com/jamesrenhoulee/CancerNet-SCa/raw/main/assets/cancernet_logo.png" alt="COVID-Net" width="4%" height="4%"> **Cancer-Net SCa: tailored deep convolutional neural networks for detection of skin cancer from dermoscopy images**: 
 	- Repo: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa)
   - Models: [Click here](https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md)
